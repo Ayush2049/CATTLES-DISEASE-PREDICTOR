@@ -1,0 +1,17 @@
+﻿# Python
+*.pyc
+__pycache__/
+*.pkl
+ayush/
+
+# Data files
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+venv/
+env/
+*.env
