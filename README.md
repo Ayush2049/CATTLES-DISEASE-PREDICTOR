@@ -185,15 +185,14 @@ predict_disease("sheep", 2, 104.2, ["lameness", "mouth lesions", "fever"])
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Ayush Sharma**
 
-📧 [your.email@example.com](mailto:your.email@example.com) | 🐙 [@yourusername](https://github.com/yourusername) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: [dm.ayushsharma@gmail.com](mailto:dm.ayushsharma@gmail.com)
+- 🐙 GitHub: [@Ayush2049](https://github.com/Ayush2049)
+- 💼 LinkedIn: [Ayush Sharma](https://in.linkedin.com/in/ayush-sharma-8805842ba)
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
