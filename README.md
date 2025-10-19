@@ -119,7 +119,10 @@ print("Diseases:", info['diseases'])
 
 ## 📊 Dataset Format
 
-Your CSV should have these columns:
+Dataset link
+https://www.kaggle.com/datasets/researcher1548/livestock-symptoms-and-diseases
+
+CSV should have these columns:
 
 | Column | Type | Example |
 |--------|------|---------|
