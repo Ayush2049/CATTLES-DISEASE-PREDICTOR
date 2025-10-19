@@ -24,7 +24,11 @@ A **Random Forest Classifier** that predicts diseases in livestock (cows, buffal
 - ✅ Automatic symptom validation
 
 ---
-## 📂 Project Structure
+## 📂 Project preview
+## Disease Prediction Model Architecture
+
+![Disease Prediction Model Architecture](https://github.com/Ayush2049/CATTLES-DISEASE-PREDICTOR/blob/0ad153e1e3bedd9be329aeb81a291f89ff2fb4ab/project-instances/disease-predicter.png)
+
 
 ---
 
