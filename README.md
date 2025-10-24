@@ -109,32 +109,6 @@ Output (disease, confidence, valid symptoms)
 
 ---
 
-## 📋 Example Use Cases
-
-**Dairy Cow Health Check:**
-```python
-predict_disease("cow", 6, 102.8, ["fever", "swollen udder"])
-# Result: Mastitis
-```
-
-**Sheep Flock Screening:**
-```python
-predict_disease("sheep", 2, 104.2, ["lameness", "mouth lesions", "fever"])
-# Result: Foot-and-Mouth Disease (FMD)
-```
-
----
-
-## ⚠️ Important Notes
-
-- Temperature must be in Fahrenheit
-- Age in years (integer)
-- Symptom names are case-insensitive
-- **Always verify predictions with a licensed veterinarian**
-- This tool assists diagnosis, does not replace professional care
-
----
-
 
 
 ## 👨‍💻 Author
